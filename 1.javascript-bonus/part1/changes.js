@@ -1,0 +1,1 @@
+let gameName = "pubg";
