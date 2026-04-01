@@ -21,3 +21,5 @@ if (userName == anotherUserName) {
 } else {
   console.log("You can pick this username");
 }
+
+console.log("Just checking if my github connection works");
