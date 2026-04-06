@@ -28,12 +28,14 @@ while (j >= 1) {
 //   }
 // } while (tea !== "stop");
 
-let total = 0;
-let k = 1;
+// let total = 0;
+// let k = 1;
 
-do {
-  total += k;
-  k++;
-} while (k <= 3);
+// do {
+//   total += k;
+//   k++;
+// } while (k <= 3);
 
-console.log(total);
+// console.log(total);
+
+
