@@ -183,4 +183,4 @@ for (const tea of newTeasCollection) {
   if (tea.length > 10) break;
   shortTeas.push(tea);
 }
-console.log(shortTeas);
+// console.log(shortTeas);
