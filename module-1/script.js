@@ -9,7 +9,7 @@ console.log("Start of Script");
 // console.log(content);
 
 //Async => Non-blocking operations
-const content = fs.readFile("notes.txt", "utf-8", function (error, data) {
+fs.readFile("notes.txt", "utf-8", function (error, data) {
   if (error) console.log(error);
   else console.log(data);
 });
