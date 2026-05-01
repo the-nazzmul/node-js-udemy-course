@@ -1,3 +1,4 @@
+import "dotenv/config";
 import express from "express";
 import { loggerMiddleware } from "./middlewares/logger.js";
 import { bookRouter } from "./routes/book.route.js";
