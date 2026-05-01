@@ -4,7 +4,7 @@ import {
   deleteBookById,
   getAllBooks,
   getBookById,
-} from "../controllers/book.controller";
+} from "../controllers/book.controllers.js";
 
 const router = express.Router();
 
